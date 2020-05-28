@@ -1,0 +1,7 @@
+[08/2015]
+	- Soporte Multihilo
+	- Autenticaci�n
+	- header de clase para bitacora
+
+############	TOPICOS
+
